@@ -1,5 +1,5 @@
 ---
-title: "KOD - projekt MDP"
+title: "Kod - projekt MDP"
 author: "Eliza Muca"
 date: "2024-11-30"
 output:
